@@ -1,6 +1,4 @@
 # cursoEPM-1
-compartido
-
-
-Pruebas CCHS
-Prueba 
+Integrantes Equipo:
+John Alejandro Colorado Henao
+Carlos Ivan Uribe Camargo
